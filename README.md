@@ -42,6 +42,9 @@ Code:
 Code:
 [admessage action="image" image="http://domain.tld/meine_Admassage.jpg" width="auto" height="auto" link="#"]
 </pre>
+Beispiel:
+<img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/image.png" />
+
 
 
 ### action = redirect (Weiterleitung)
