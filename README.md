@@ -5,9 +5,22 @@
 
 Adblock-Message ist ein Shortcode Plugin für Wordpress. Es zeigt eine Nachricht an, wenn ein Besucher <u>keinen</u> Adblock installiert hat.
 
-#### Was soll denn das bringen?
+Dies ist ein Gegenbeispiel der Anti-Adblock Bewegung und ermöglicht es, Menschen die deinen Blog lesen, aufmerksam zu machen, über die Funktionen und positiven Seiten eines Adblockers. Es soll animieren mehr Adblocker zu nutzen und über die Rechte wie auch nutzen von nicht erwünschter Werbung und Spam nachzudenken.
 
+Selbst Firefox wird bald einen fest eingebauten Adblocker einschalten (zur Zeit schon automatisch im Inkoknito Modus möglich), damit der Schritt, ein zusätzliches Plugin für den Browser zu installieren, automatisch entfällt.
 
+#### Wer hat das gemacht?
+
+Ich, der Bastler dieses kleinen Plugins :P
+
+#### Warum hast Du das gemacht?
+
+Da ich der Meinung bin, wenn ich im Internet unterwegs bin, selber das Recht zu haben, mich zu schützen, was ich als Seriös empfinde, was ich mir anschauen will, wen ich unterstütze und was meine Bedingen als Konsument, wie auch als Entwickler und Hoster freier und komerzieller Software zulasse.
+
+Ich finde es eben so wichtig, zu informieren. Adblocks schützen meine privatsfähre und da hat jeder Nutzer ein Recht darauf.
+Informieren heist auch für mich seriösität. Wenn meiner Oma erzählt wird, das weil sie einen Adblocker nutzt, sich "angeblich" strafbar macht, oder ein Anbieter ihr mit unseriösen Nachrichten erklären will, das ein Adblocker ein Virus sei, das sie schnell aus Ihrem Browser entfernen sollte? Davon halte ich nichts!
+
+Ich sehe es als ein Grundverständnis an, das eigene System zu schützen und habe das Recht dazu!
 
 
 
