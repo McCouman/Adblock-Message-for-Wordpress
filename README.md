@@ -5,7 +5,7 @@
 
 Adblock-Message ist ein Shortcode Plugin für Wordpress. Es zeigt eine Nachricht an, wenn ein Besucher <u>keinen</u> Adblock installiert hat.
 
-Dies ist ein Gegenbeispiel der Anti-Adblock Bewegung und ermöglicht es, Menschen die deinen Blog lesen, aufmerksam zu machen, über die Funktionen und positiven Seiten eines Adblockers. Es soll animieren mehr Adblocker zu nutzen und über die Rechte wie auch nutzen von nicht erwünschter Werbung und Spam nachzudenken.
+Dies ist ein Gegenbeispiel der Anti-Adblock-Bewegung und ermöglicht es, Menschen die deinen Blog lesen aufmerksam zu machen, über die Funktionen und positiven Seiten eines Adblockers. Es soll animieren mehr Adblocker zu nutzen und über die Rechte wie auch über die Nutzung von erwünschter oder unerwünschter Werbung und Spam nachzudenken.
 
 Selbst Firefox wird bald einen fest eingebauten Adblocker einschalten (zur Zeit schon automatisch im Inkoknito Modus möglich), damit der Schritt, ein zusätzliches Plugin für den Browser zu installieren, automatisch entfällt.
 
@@ -15,13 +15,15 @@ Ich, der Bastler dieses kleinen Plugins :P
 
 #### Warum hast Du das gemacht?
 
-Da ich der Meinung bin, wenn ich im Internet unterwegs bin, selber das Recht zu haben, mich zu schützen, was ich als Seriös empfinde, was ich mir anschauen will, wen ich unterstütze und was meine Bedingen als Konsument, wie auch als Entwickler und Hoster freier und komerzieller Software zulasse.
+Da ich der Meinung bin, wenn ich im Internet unterwegs bin, sollte ich selber das Recht haben mich zu schützen. Ich habe das Recht, selber zu entscheiden, auch, was ich als Seriös empfinde, was ich mir anschauen möchte, wen ich unterstütze und was meine Bedingen sind, als Konsument für all die Anbieter, die durch uns Konsumenten (nur uns Konsumenten) provitieren.
 
-Ich finde es eben so wichtig, zu informieren. Adblocks schützen meine privatsfähre und da hat jeder Nutzer ein Recht darauf.
-Informieren heist auch für mich seriösität. Wenn meiner Oma erzählt wird, das weil sie einen Adblocker nutzt, sich "angeblich" strafbar macht, oder ein Anbieter ihr mit unseriösen Nachrichten erklären will, das ein Adblocker ein Virus sei, das sie schnell aus Ihrem Browser entfernen sollte? Davon halte ich nichts!
+Ich bin selber Entwickler und Hoster freier aber auch komerzieller Software. Und ja! Ich kann verstehen, das man für seine vielleicht kostenlose Arbeit, auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument!
 
-Ich sehe es als ein Grundverständnis an, das eigene System zu schützen und habe das Recht dazu!
+**Ich muss mir also die Frage stellen, was ist eigentlich seriös und wen kaufe ich das auch noch ab?(!)**
 
+Seriösität: Meine Oma wird oft auf Seiten belogen und betrogen. Dass weil sie ben einen Adblocker nutzt, Sie sich "angeblich" strafbar mache oder dreiste Anbieter ihr mit bautänzelnden Nachrichten erklären will, dass ein Adblocker ein Virus sei - und *"Schnell, Schnell! Wie die Winde, so das der Blocker aus dem Browser verschwinde..."* - davon halte ich nichts. Das ist seriös?
+
+Das ist ein Armutszeugnis, nichts weiter! Adblocks schützen meine Privatsphäre und da hat jeder Nutzer ein Recht darauf. Daran ist nichts strafbar! So sehe ich es als ein Grundverständnis an, das eigene System zu schützen und habe auch jedes Recht dazu! 
 
 
 # Funktionsweise
