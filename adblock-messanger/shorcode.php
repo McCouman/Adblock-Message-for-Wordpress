@@ -30,22 +30,34 @@ if( $get_css != '' ){
 ?>
 	#info { 
 		padding: 36px 30px 25px;
-		width: 89%;
-		background: #fee;
+    	width: 100%;
+    	background: #fee;
+    	border: 1px solid #D29F9F;
 	}
 	#button {
-		padding: 8px;
-    	border: 1px solid #a00;
-    	background: #f66;
+		padding: 13px;
+    	border: 1px solid #CA2A2A;
+    	background: #E23F3F;
     	color: #fff;
     	text-decoration: none;
+    	font-weight: bold;
+    	border-bottom: 4px solid #D03939;
+	}
+	#button:hover {
+    	padding: 13px;
+    	border: 1px solid #F14A4A;
+    	background: #FF3838;
+    	color: #fff;
+    	text-decoration: none;
+    	font-weight: bold;
+    	border-bottom: 4px solid #EF1F1F;
 	}
 	#left {
 		float: left;
-		width: 78%;
+    	width: 73%;
 	}
 	#right {
-		float: left;
+		float: right;
 		margin-top: 38px;
 	} <?php 
 }  
@@ -138,7 +150,7 @@ function adblock_resistor( $atts, $content ) {
                 //--message
                 
                 'header' => 'ACHTUNG: Wichtiger Hinweis!',
-                'info' => '<b>Du nutzt keinen Adblocker um Dich im Internet zu schützen!</b> Einen Adblock zu installieren geht ganz einfach. Schaue dafür ob es ein Plugin für deinen Browser gibt. Klicke auf den Button und wir helfen dir bei der Suche :)',
+                'info' => '<b>Du nutzt keinen Adblocker um Dich im Internet zu sch&uuml;tzen!</b> Einen Adblock zu installieren geht ganz einfach. Schaue daf&uuml;r ob es ein Plugin f&uuml;r deinen Browser gibt. Klicke auf den Button und wir helfen dir bei der Suche :)',
                 'button_text' => 'Jetzt einen Adblocker installieren!',
                 'link'	=> 'http://lmgtfy.com/?q=adblock+download',
                 
@@ -179,7 +191,7 @@ if($message == 'message')
 	$get_css = 'ok';
 	//--
 	$button = '<a id="button" traget="_blank" href="'.$link.'">'.$button_text.'</a>';
-	$info_out = '<div id="info"><div id="left"><h4>'.$header.'</h4><br><p>'.$info.'</p></div><div id="right">'.$button.'</div><div style="clear:both;"></div></div>';
+	$info_out = '<div id="info"><div id="left"><h4>'.$header.'</h4><p>'.$info.'</p></div><div id="right">'.$button.'</div><div style="clear:both;"></div></div>';
 	//--
 	$out = "allElements[i].innerHTML = '".$info_out."';";
 }
