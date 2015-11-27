@@ -15,15 +15,18 @@ Ich, der Bastler dieses kleinen Plugins :P
 
 #### Warum hast Du das gemacht?
 
-Da ich der Meinung bin, wenn ich im Internet unterwegs bin, sollte ich selber das Recht haben mich zu schützen. Ich habe das Recht, selber zu entscheiden, auch, was ich als Seriös empfinde, was ich mir anschauen möchte, wen ich unterstütze und was meine Bedingen sind, als Konsument für all die Anbieter, die durch uns Konsumenten (nur uns Konsumenten) provitieren.
+Da ich der Meinung bin, wenn ich im Internet unterwegs bin sollte ich auch selber das Recht haben, mich zu schützen. Ich habe das Recht, selber zu entscheiden, auch was ich als Seriös empfinde, was ich mir anschauen möchte, wen ich unterstütze und was meine Bedingen sind, als Konsument für all die Anbieter die durch uns Konsumenten (und nur uns Konsumenten!) provitieren.
 
-Ich bin selber Entwickler und Hoster freier aber auch komerzieller Software. Und ja! Ich kann verstehen, das man für seine vielleicht kostenlose Arbeit, auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument!
+Ich bin selber Entwickler und Hoster freie aber auch komerzieller Software. Und ja! Ich kann verstehen, das so machn einer für seine "vielleicht" kostenlose Arbeit auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument - kein Werbeslogen oder gar Anti-Adblock-Kampanie!
 
-**Ich muss mir also die Frage stellen, was ist eigentlich seriös und wen kaufe ich das auch noch ab?(!)**
+**Ich muss mir also dringen die Frage stellen, was ist eigentlich seriös und wen kaufe ich das auch noch ab?(!)**
 
-Seriösität: Meine Oma wird oft auf Seiten belogen und betrogen. Dass weil sie ben einen Adblocker nutzt, Sie sich "angeblich" strafbar mache oder dreiste Anbieter ihr mit bautänzelnden Nachrichten erklären will, dass ein Adblocker ein Virus sei - und *"Schnell, Schnell! Wie die Winde, so das der Blocker aus dem Browser verschwinde..."* - davon halte ich nichts. Das ist seriös?
+Ein kleines Beispiel zur Seriösität: Meine Oma wird oft auf Seiten belogen und betrogen. Dass weil sie einen Adblocker nutzt, Sie sich *"angeblich"* strafbar mache oder noch dreistere Anbieter Ihr, mit bauchtänzelnden blinkenden Nachrichten erklären wollen, dass ja Ihr Adblocker in Wahrheit ein Virus sei - getreu dem Motto: *"Schnell, Schnell, wie die Winde! So das der Blocker, aus dem Browser verschwinde..."* - *pffh* lächerlich! Davon halte ich ja mal garnichts.
 
-Das ist ein Armutszeugnis, nichts weiter! Adblocks schützen meine Privatsphäre und da hat jeder Nutzer ein Recht darauf. Daran ist nichts strafbar! So sehe ich es als ein Grundverständnis an, das eigene System zu schützen und habe auch jedes Recht dazu! 
+**Das ist nun für die hälte der Anbieter von ätzender blinke-billi Werbung, also Seriösität?**
+
+Das ist ein Armutszeugnis, weiter nichts! Adblocks schützen meine Privatsphäre und da hat jeder Nutzer ein Recht darauf. Daran ist nichts strafbar - *das ist Eigenschutz!*
+
 
 
 # Funktionsweise
