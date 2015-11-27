@@ -1,18 +1,20 @@
 # Adblock-Message-for-Wordpress
-Zeigt eine Nachricht an, wenn Adblock <u>nicht</u> installiert wurde.
+Was ist Adblock-Message?
+
+Adblock-Message ist ein Shortcode Plugin für Wordpress. Es zeigt eine Nachricht an, wenn ein Besucher <u>keinen</u> Adblock installiert hat.
 
 
 
 
 
-#### standard = message (ohne Angaben)
+## standard = message (ohne Angaben)
 Zeigt eine vordefinierte Box mit Verlinkung und Hinweisen, wenn der Besucher keinen Adblocker nutzt.
 
 <pre>
 Code:
 [admessage action="message"]
 </pre>
-Beispiel:
+Vorschau:
 <img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/standard.png" />
 
 
@@ -25,8 +27,8 @@ Beispiel:
 * link="http://domain.tld" // Angaben der URL bei Klick auf den Button.
 
 <pre>
-Code:
-[admessage action="message" link="#"]
+Beispiel Code:
+[admessage action="message" header="Wichtiger Hinweis!" info="Infos hier" button_text="Jetzt einen Adblocker installieren!" link="http://domain.tld"]
 </pre>
 
 
@@ -39,10 +41,10 @@ Code:
 * link="http://domain.tld/mehr-infos" // * optional: Hier kann eine URL für weitere Infos angegeben werden.
 
 <pre>
-Code:
+Beispiel Code:
 [admessage action="image" image="http://domain.tld/meine_Admassage.jpg" width="auto" height="auto" link="#"]
 </pre>
-Beispiel:
+Vorschau:
 <img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/image.png" />
 
 
@@ -53,7 +55,7 @@ Beispiel:
 * link="http://google.de" // Hier muss die URL zu mehr Informationen eingetragen werden.
 
 <pre>
-Code:
+Beispiel Code:
 [admessage action="redirect" link="http://google.de"]
 </pre>
 
@@ -65,7 +67,7 @@ Code:
 Info: für die Fraktion der Gegenspieler, kann im Code auch text="" aktiviert werden. So können auch Informationen für aktivierte Adblocks angezeigt werden.
 
 <pre>
-Code:
+Beispiel Code:
 [admessage action="alternate" info="Dein Text hier! Er wird angezeigt wenn kein Adblock aktiviert wurde."]
 </pre>
 
@@ -81,9 +83,9 @@ CSS ID's:
 * #button
 
 <pre>
-Code:
+Beispiel Code:
 [admessage  ...  css="#info {padding: 20px 24px 0px;background:#ffe;border: 1px solid #E2E202;}#left{float:left;width:70%;}#right{float: right;margin-top:37px;}#button{border:1px solid #aa0;background:#ff6;color:#000;padding:12px;}"]
 </pre>
 
-Beispiel:
+Vorschau:
 <img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/css.png">

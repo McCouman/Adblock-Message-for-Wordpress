@@ -177,10 +177,17 @@ function adblock_resistor( $atts, $content ) {
     {
         $set_css = $css;
     }
-    if( $text )
+    
+    if( $image == "")
     {
-    	$set_internalText = $text;
+        $image = plugins_url() . '/adblock-messanger/img/beispiel.png';
     }
+    
+    
+    #if( $text )
+    #{
+    #	$set_internalText = $text;
+    #}
     
 #-----------------------------
 
