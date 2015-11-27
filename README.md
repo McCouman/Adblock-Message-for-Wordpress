@@ -12,6 +12,9 @@ Zeigt eine vordefinierte Box mit Verlinkung und Hinweisen, wenn der Besucher kei
 Code:
 [admessage action="message"]
 </pre>
+Beispiel:
+<img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/standard.png" />
+
 
 ### action = message (Nachricht)
 
