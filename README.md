@@ -41,9 +41,9 @@ Doch ist das so? Natürlich alles Quatsch! Nur weil ich ein anderes Interesse ha
 
 Medienforscher und Psychologen wissen das. Was man aus dem Wissen macht, entscheidet jedoch, wie eine Gesellschaft miteinander konterigiert. Werbung ist von Grund auf eigentlich ein soziales Geflecht. Heute haben wir jedoch Produkte die unser Weltbild mehr einnehmen, als ein normales Gespräch und so wird das natürliche soziale Miteinander mehr und mehr, durch die Strategien der Anbieter bestimmen und so wird Werbung gerne zu einer Farce von "ich muss haben" und "ich bin besser".
 
-Ich muss jedoch nix haben! Ich sollte nur die Wahl haben, mich entscheiden zu dürfen oder mehr darüber zu erfahren. Wenn da nicht auch noch der Neid währe der aller Strategie in und um die Werbung, ein zunehmendes Maß zu einem Manifest von Stichelein und Geldgier macht. Wenn eine Blogerszene zusammen arbeitet dann macht es Sinn, einfach Werbung zu machen. Doch geht es um die Netzwerk-Werbung die keinem gefällt!
+Ich muss jedoch nix haben! Ich sollte nur die Wahl haben, mich entscheiden zu dürfen oder mehr darüber zu erfahren. Wenn da nicht auch noch der Neid währe der aller Strategie in und um die Werbung, ein zunehmendes Maß zu einem Manifest von Stichelein und Geldgier macht. Wenn eine Blogerszene zusammen arbeitet dann macht es Sinn, einfach Werbung untereinander für sich und andere, zu machen. Doch geht es um die Netzwerk-Werbung die doch keinem gefällt oder?!
 
-**Kaum kontroliert packt jeder sein Blinkebild da rein oder nein, gar 20, 30 müssen es sein? Und Ja, dazu sage auch ich entschlossen - NEIN!**
+**Kaum kontrolliert packt jeder sein Blinkebild in das Netzwerk rein oder nein, gar 20, 30 müssen es auf meiner Seite sein? Und Ja! Dazu sage auch ich ganz entschlossen - NEIN!**
 
 Und dann diese unfassbar schlechten Bloger die sich darüber aufregen, dass sie zu wenig Einnahmen über die Add Werbung haben (nicht das ich gut schreiben könne, wie man folglich hier lesen kann). Aber wenn Sie alle so toll und wichtig währen, so würden Sie ihr Potential anderweitig vermarkten können.
 
