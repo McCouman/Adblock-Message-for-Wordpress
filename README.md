@@ -45,15 +45,15 @@ Ich muss jedoch nix haben! Ich sollte nur die Wahl haben, mich entscheiden zu d�
 
 **Kaum kontrolliert packt jeder sein Blinkebild in das Netzwerk rein oder nein, gar 20, 30 müssen es auf meiner Seite sein? Und Ja! Dazu sage auch ich ganz entschlossen - NEIN!**
 
-Und dann diese unfassbar schlechten Bloger die sich darüber aufregen, dass sie zu wenig Einnahmen über die Add Werbung haben (nicht das ich gut schreiben könne, wie man folglich hier lesen kann). Aber wenn Sie alle so toll und wichtig währen, so würden Sie ihr Potential anderweitig vermarkten können.
+Und dann diese unfassbar schlechten Bloger die sich darüber aufregen, dass sie zu wenig Einnahmen über die AdWerbung haben (nicht das ich gut schreiben könne, wie man folglich hier lesen kann). Aber wenn Sie alle so toll und wichtig währen, so würden Sie ihr Potential anderweitig vermarkten können.
 
 Noch interessanter finde ich Seiten, die kostenlos von Anbietern gehostet werden. Einige die nicht einmal Werbung einblenden, sondern es die Bloger selber sind, die es einbauen. Nix bezahlen wollen, aber rumheulen wenn die Knete nicht stimmt?
 
 **Zeit für eine These**
 
-Was Blocker/inen mit antreibt bei einer Anti-Adblock-Bewegung dabei sein zu müssen, ist nichts weiter als Neid auf die Kollegen und Anbieter. Was die Anbieter treibt, ist nichts weiter als Gier, Unverständnis und Angst nicht mehr der Platzhirsch zu sein. Aufsehen erwecken um jeden Preis.
+Was Blocker/innen mit antreibt bei einer Anti-Adblock-Bewegung dabei sein zu müssen, ist nichts weiter als Neid auf die Kollegen und Anbieter. Was die Anbieter treibt, ist nichts weiter als Gier, Unverständnis und Angst nicht mehr der Platzhirsch zu sein. Aufsehen erwecken um jeden Preis.
 
-Und was währe wenn wir morgen alle Adblocker abschalten würden? Wenn Bloger, YouTuber, Podcaster gar alle, Ihre eigene Werbung machen würden und stadt der Netz- und Google Ads, Ihre eigenen Blinkebanner bauen. Die nur wieder Werbung für andere Kollegen machen machen würden und nicht für kommerzielle Produkte.
+Und was währe wenn wir morgen alle Adblocker abschalten würden? Wenn Bloger, YouTuber, Podcaster gar alle, Ihre eigene Werbung machen würden und stadt der Netz- und Google Ads, Ihre eigenen Blinkebanner bauen. Die nur wieder Werbung für andere Kollegen machen würden und nicht für irgend welche kommerziellen Produkte.
 
 *Was dann?*
 
