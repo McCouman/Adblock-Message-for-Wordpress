@@ -4,7 +4,7 @@ Plugin Name: Adblock Message
 Plugin URI: http://wikibyte.org
 Description: Erstellt einen Shortcode mit Nachricht, das kein Adblock aktiviert wurde. Damit es mehr sichere Browser im Netz gibt und Adblocker installiert werden. 
 Author: Michael (M.C.) McCouman Jr.
-Author URI: 
+Author URI: https://github.com/McCouman/Adblock-Message-for-Wordpress
 Version: 1.0.1
 DomainPath: /languages
 License: Mache was willst Du!

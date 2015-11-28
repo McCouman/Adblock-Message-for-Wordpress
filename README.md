@@ -114,7 +114,8 @@ Ein Danke für die vielen Stunden geht an die Kollegen von <a href="http://www.s
 
 Ich bin gespannt wie die Debatte um den Adblock so weiter geht.
 
-An dieser Stelle noch eine *"das solltest Du wissen"* Info: **Dieses Plugin habe ich mal recht schnell zusammengehackt** - Erwarte keine Wunder! Ich nehme jedoch Ideen auf und habe selber noch einige. Diese kannst Du mir <a href="https://github.com/McCouman/Adblock-Message-for-Wordpress/issues">hier</a> hinterlassen. Wer meine spontanen Entwicklungen im Eifer der Lage unterstützen mag, findet <a href="https://flattr.com/profile/mccouman">hier</a> Abhilfe.
+An dieser Stelle noch eine *"das solltest Du wissen"* Info:
+**Dieses Plugin habe ich mal recht schnell zusammengehackt** - Erwarte also keine Wunder! Ich nehme jedoch Ideen auf und habe selber noch einige. Diese kannst Du mir <a href="https://github.com/McCouman/Adblock-Message-for-Wordpress/issues">hier</a> hinterlassen. Wer meine spontanen Entwicklungen im Eifer der Lage unterstützen mag, findet <a href="https://flattr.com/profile/mccouman">hier</a> Abhilfe.
 
 So, Danke das wars auch jetzt. Viel Spaß!
 
@@ -123,6 +124,17 @@ M.C.
 
 
 # Funktionsweise des Plugins
+
+Lade dir das Plugin <a href="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/adblock-messanger.zip">hier</a> herunter. Über sFTP einfach unter <code>/wp-content/plugins</code> hochladen. Gehe in Wordpress unter Plugins und schalte das Plugin ein. Du kannst den Shortcode nun auf deinen Seiten einbinden.
+
+Du kannst dich entscheiden:
+* eine Standardbox einzublenden oder diese mit eigenen Text zu ändern.
+* eine Weiterleitung einzurichten, um auf eine andere Seite zu verweisen
+* deinen eigenen Text mit html Inhalt zu kreieren
+* das CSS der Standardbox anzupassen
+* oder ein Bild einzublenden ( auch dafür gibt es ein Beispiel ;D )
+
+Wie das alles geht wird nun darunter erklährt und auch noch einmal im doc Ordner erklährt:
 
 ### standard = message (ohne Angaben)
 Zeigt eine vordefinierte Box mit Verlinkung und Hinweisen, wenn der Besucher keinen Adblocker nutzt.
