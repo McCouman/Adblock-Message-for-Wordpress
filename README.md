@@ -171,7 +171,7 @@ Beispiel Code:
 
 <pre>
 Beispiel Code:
-[admessage action="image" image="http://domain.tld/meine_Admassage.jpg" width="auto" height="auto" link="#"]
+[admessage action="image" image="http://domain.tld/meine_bildmessage.jpg" width="auto" height="auto" link="#"]
 </pre>
 Vorschau:
 <img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/image.png" />
