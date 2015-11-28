@@ -103,7 +103,7 @@ Ich schlage gleich mal ein Geschäftsidee vor: Man bezahlt einfach für Größe,
 
 Die Wahrheit ist, nicht alle werden sofort dafür bezahlen. Aber genau so funktioniert es in einer realen Wirtschaft. Alles andere ist seit je, über 20 Jahren im Internet (einen einfachen Shop ausgeschlossen) nichts weiter als Mafia-Methoden und Betrug am eigenen Kunden.
 
-So lange die Wirtschaft weiterhin ohne Verlust auf die Konsumenten handelt, trackt und drausschlägt, so lange ist Gegenwehr immer erlaubt und gar aus meiner Sicht geboten.
+So lange die Wirtschaft weiterhin ohne Verlust auf die Konsumenten handelt, trackt und draufschlägt, so lange ist Gegenwehr immer erlaubt und gar aus meiner Sicht geboten.
 
 
 #### Uns sonst so?
