@@ -119,7 +119,8 @@ Ich bin gespannt wie die Debatte um den Adblock so weiter geht.
 An dieser Stelle noch eine *"das solltest Du wissen"* Info:
 **Dieses Plugin habe ich mal recht schnell zusammengehackt** - Erwarte also keine Wunder! Ich nehme jedoch Ideen auf und habe selber noch einige. Diese kannst Du mir <a href="https://github.com/McCouman/Adblock-Message-for-Wordpress/issues">hier</a> hinterlassen. Wer meine spontanen Entwicklungen im Eifer der Lage unterstützen mag, findet <a href="https://flattr.com/profile/mccouman">hier</a> Abhilfe.
 
-So, Danke das wars auch jetzt. Viel Spaß!
+So, Danke das wars auch jetzt.
+Viel Spaß!
 
 M.C.
 
