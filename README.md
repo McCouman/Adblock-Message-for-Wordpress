@@ -85,19 +85,19 @@ Zu glauben, das nur, weil wir die hälfte automatisieren und durch Services erse
 
 **Damit werden Milliarden verdient, jedoch meist an der falschen Seite!**
 
-Doch da heult nun wirklich keiner rum. Wer also einen Adblock verwert, zwinkt auf der anderen Seite seine Kunden  und übt Druck in unterschiedlichsten Maße aus. Wer das unterstützt weis auch, das dies ohne Rücksicht auf seine potentiellen Kunden geschieht und zuläst, das diese auspioniert und an den Pranger gestellt werden.
+Doch da heult nun wirklich keiner rum. Wer also einen Adblock verwert, zwingt auf der anderen Seite seine Kunden  und übt Druck in unterschiedlichsten Maße aus. Wer das unterstützt weis auch, das dies ohne Rücksicht auf seine potentiellen Kunden geschieht und zuläst, das diese auspioniert und an den Pranger gestellt werden.
 
-Eben so gut kann ich mir ein Werbeschild schnappen, beim Fleischer um die Ecke, um Ihn dazu zu drängen es in sein Schaufenster zu packen. Wenn ich ihn also bedränge (und er sich nicht zu helfen weis, auch nichts dafür bekommt), dann ist das eine Nötigung (sicher juristisch nich ganz korekt!) - für mich einfach ein straffälliges Verhalten. Wer seriös und an seine Arbeit glaubt, braucht das nicht.
+Eben so gut kann ich mir ein Werbeschild schnappen, beim Fleischer um die Ecke, um Ihn dazu zu drängen es in sein Schaufenster zu packen. Wenn ich ihn also bedränge (und er sich nicht zu helfen weis, auch nichts dafür bekommt), dann ist das eine Nötigung (sicher juristisch nich ganz korrekt!) - für mich einfach ein straffälliges Verhalten. Wer seriös und an seine Arbeit glaubt, braucht das nicht.
 
 **These zwei**
 
-Wenn ich meinen Adbocker mal selber tracken würde und die Energie, der abziehe, dessen Leistung mein Rechner  aufwenden muss um die Werbeeinblender anzuzeigen zu lassen und ich dann einen Brief an die Seitenbetreiber schreibe, bekommen ich dann das Geld für meine Stromrechnung von ihnen zurück? Wenn wir das nun alle machen würden, blieben in binnen kürzester Zeit, von den Werbeeinnahmen, sicher nicht mehr all viel übrig!
+Wenn ich meinen Adbocker mal selber tracken würde und die Energie, der abziehe, dessen Leistung mein Rechner  aufwenden muss um die Werbeeinblender anzeigen zu lassen und ich dann einen Brief an die Seitenbetreiber schreibe, bekommen ich dann das Geld für meine Stromrechnung von ihnen zurück? Wenn wir das nun alle machen würden, blieben in binnen kürzester Zeit, von den Werbeeinnahmen sicher nicht mehr all zu viel übrig!
 
 Datentraffic auf dem Handy: Es gibt keine direkte Flatt, das hat sich so eingebürgert. Durch Werbung auf dem Handy verbrate ich das Volumen schneller als ein Telekommitarbeiter "Drosselkom" sagen kann. Zahlt Ihr uns die Volumenrechnungen auch? Toll :)
 
 **Wie wäre es, wenn einfach die Telekom einen Kostenbeitrag für alle Seitenbetreiber einfordern kann, die Werbung auf Ihren Seiten im Übermaß schalten. Immerhin belasstet die Werbung die Netze und erzeugt tausende an Requests und übermäßigen Traffic in Ihnren Leitungen!**
 
-Ich schlage gleich mal ein Geschäftsidee vor: Man bezahlt einfach für Größe, Datenvolumen + Traffic bei einer aufgerufenen Zahl der Seite. Am Ende des Monats wird sich dann schon zeigen ob das so doll ist. Zur Zeit bezahle ich jedoch noch dafür das der Seitenbetreiber Werbung einblendet. Der Witz: der bekommt dafür jedoch nicht einmal die 1/16 an Geldleistung zurück. Hier verdienen ganz andere!  
+Ich schlage gleich mal ein Geschäftsidee vor: Man bezahlt einfach für Größe, Datenvolumen + Traffic bei einer aufgerufenen Zahl der Seite. Am Ende des Monats wird sich dann schon zeigen ob das so doll ist. Zur Zeit bezahle ich jedoch noch dafür das der Seitenbetreiber Werbung einblendet. Der Witz: der bekommt dafür jedoch nicht einmal 1/16 an Geldleistung zurück. Hier verdienen ganz andere!  
 
 **Dein Content kostet Geld? Dann sag was es kostet!**
 
