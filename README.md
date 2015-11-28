@@ -18,15 +18,15 @@ Ich, der M.C. und Bastler dieses kleinen Plugins :P
 
 Ich bin der Meinung, wenn ich im Internet unterwegs bin, sollte ich auch selber das Recht haben, mich zu schützen. Ich habe jedes Recht selber zu entscheiden, was ich als Seriös empfinde, was ich mir anschauen möchte, wen ich unterstütze und was <u>meine Bedingen</u> als Konsument sind, für all die Anbieter da draußen! Denn nur die  Konsumenten (und nur die Konsumenten!) sind es, aus dem der Anbieter nachhaltig provitiert (warum bedrenkt man diese dann? - Dumme Aktion oder?)
 
-Ich bin selber Entwickler und Hoster freier aber auch komerzieller Software. Und ja! Ich kann verstehen, das so manch einer/e für seine/ihrne "vielleicht" kostenlose Arbeit auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument (und darum geht es doch eigentlich - die großen Anbieter und Ihre Werbung), schon gar kein Werbeslogen oder Sinnfreie <a href="http://www.horizont.net/medien/nachrichten/-Ad-Blocker-Debatte-Der-Erfolg-der-Anti-Kampagne--Mafioese-Werbenetzwerke-115494">Anti-Adblock-Kampagne</a>!
+Ich bin selber Entwickler und Hoster freier aber auch kommerzieller Software. Und ja! Ich kann verstehen, das so manch einer/e für seine/ihre "vielleicht" kostenlose Arbeit auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument und schon gar kein Werbeslogen oder Sinnfreie <a href="http://www.horizont.net/medien/nachrichten/-Ad-Blocker-Debatte-Der-Erfolg-der-Anti-Kampagne--Mafioese-Werbenetzwerke-115494">Anti-Adblock-Kampagne</a> (doch um die geht es doch eigentlich - die großen Anbieter und Ihre ach so wichtig Werbung).
 
-**Ich muss mir also dringend die Frage stellen, was ist eigentlich seriös und wen kaufe ich das auch noch ab?(!)**
+**Ich muss mir also dringend die Frage stellen, was ist eigentlich Werbung, was seriös und wen kaufe ich das auch noch ab?(!)**
 
-Ein kleines Beispiel zur Seriösität? Also meine Oma wird oft auf Seiten belogen und betrogen. Und nein sie ist nicht auf der Bild dir deine... unterwegs. Das weil sie einen Adblocker nutzt, Sie sich *"angeblich"* strafbar mache oder noch <a href="http://www.heise.de/newsticker/bilderstrecke/bilderstrecke_2125588.html">* dreistere Anbieter (siehe auch  Beispiel-Screenshot von heise.de)</a> Ihr gerne mal mit bauchtänzelnd blinkenden Nachrichten erklären wollen, dass ja Ihr Adblocker in Wahrheit ein Virus sei. Immer alles getreu dem Motto:
+Ein kleines Beispiel zur Seriösität? Also meine Oma wird oft auf Seiten belogen und betrogen. Und nein sie ist nicht auf der Bild dir deine... unterwegs. Das weil sie einen Adblocker nutzt, Sie sich *"angeblich"* strafbar mache oder noch <a href="http://www.heise.de/newsticker/bilderstrecke/bilderstrecke_2125588.html">* dreistere Anbieter (siehe auch  Beispiel-Screenshot von heise.de)</a> Ihr gerne mal, mit bauchtänzelnd blinkenden Nachrichten erklären wollen, dass ja Ihr Adblocker in Wahrheit ein Virus sei. Immer alles getreu dem Motto:
 
 *"Schnell, Schnell, wie die Winde! So das der Blocker, aus dem Browser verschwinde..."*
 
-*pffh* echt lächerlich - davon halte ich ja mal so garnichts! *Ist das für die Anbieter von ätzender blinke-billi Werbung also seriös?*
+*pffh* echt lächerlich - davon halte ich ja mal so garnichts! *Ist das für die Anbieter von ätzender blinke-billi Werbung also seriös? Menschen die es nicht besser wissen können zu belügen?*
 
 Das ist ein Armutszeugnis für mich und weiter nichts! Adblocks schützen meine Privatsphäre und da hat jeder Nutzer ein Recht darauf. Daran ist nichts strafbar - *das ist Eigenschutz!* Bevor man jedoch die Wahl hat, muss erst einmal verstanden haben, das man ein Recht darauf hat/hätte. Wer es nicht kennt - nutzt es nicht und / oder kann auch nicht selber entscheiden - ein Blocker einzusetzen oder nicht.
 
