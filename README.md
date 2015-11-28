@@ -6,86 +6,123 @@ Adblock-Message ist ein Shortcode Plugin für Wordpress. Es zeigt eine Nachricht
 
 Adblock-Message ist ein Shortcode Plugin für Wordpress. Es zeigt eine Nachricht an, wenn ein Besucher <u>keinen</u> Adblock installiert hat.
 
-Dies ist eine Möglichkeit und Gegenbeispiel der gerade mal wieder ausufernden Heulsusen, der **Anti-Adblock-Bewegung**. Es ermöglicht, Menschen die deinen Blog besuchen und lesen, darüber aufmerksam zu machen, was ein Adblocker eigentlich ist und wie er Funktioniert. Es soll zu dem animieren, mehr Adblocker einzusetzen und über die Rechte eines Konsumenten, wie auch über den Nutzung von erwünschter oder unerwünschter Werbung, Spam, Tracking, PodUp & Co einmal genauer nachzudenken.
+Dies ist eine Möglichkeit und Gegenbeispiel der gerade mal wieder ausufernden <a href="https://www.youtube.com/watch?v=dgQR1wUXWNY">* Heulsusen (YouTube)</a>, der **Anti-Adblock-Bewegung**. Es ermöglicht, Menschen die deinen Blog besuchen und lesen, darüber aufmerksam zu machen was ein Adblocker eigentlich ist und wie er Funktioniert. Es soll zu dem animieren, mehr Adblocker einzusetzen und über die Rechte eines Konsumenten, wie auch über den Nutzung von erwünschter oder unerwünschter Werbung, Spam, Tracking, PodUp & Co einmal nachzudenken.
 
-Selbst Firefox wird bald einen fest eingebauten Adblocker einschalten (zur Zeit noch automatisch im Inkoknito Modus eingeschaltet), damit der Schritt, ein zusätzliches Plugin für den Browser zu installieren, automatisch entfällt.
+*Selbst Mozilla ließ sich nicht lumpen und baute einen festen Adblocker in den Firefox ein (zur Zeit <u>noch</u> automatisch im Inkoknito Modus eingeschaltet). Damit entfällt der Schritt, ein zusätzliches Plugin für den Browser zu installieren.*
 
 #### Wer hat das gemacht?
 
-Ich, der Bastler dieses kleinen Plugins :P
+Ich, der M.C. und Bastler dieses kleinen Plugins :P
 
 #### Warum hast Du das gemacht?
 
-Da ich der Meinung bin, wenn ich im Internet unterwegs bin, sollte ich auch selber das Recht haben mich zu schützen. Ich habe jedes Recht selber zu entscheiden, was ich als Seriös empfinde, was ich mir anschauen möchte, wen ich unterstütze und was meine Bedingen als Konsument sind, für all die Anbieter da draußen! Denn nur die  Konsumenten (und nur uns Konsumenten!) können Anbieter nachhaltig provitieren.
+Ich bin der Meinung, wenn ich im Internet unterwegs bin, sollte ich auch selber das Recht haben, mich zu schützen. Ich habe jedes Recht selber zu entscheiden, was ich als Seriös empfinde, was ich mir anschauen möchte, wen ich unterstütze und was <u>meine Bedingen</u> als Konsument sind, für all die Anbieter da draußen! Denn nur die  Konsumenten (und nur die Konsumenten!) sind es, aus dem der Anbieter nachhaltig provitiert (warum bedrenkt man diese dann? - Dumme Aktion oder?)
 
-Ich bin selber Entwickler und Hoster freier, aber auch komerzieller Software! Und ja! Ich kann verstehen, das so manch einer/e für seine "vielleicht" kostenlose Arbeit auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument - schon gar kein Werbeslogen oder sinlose Anti-Adblock-Kampanie!
+Ich bin selber Entwickler und Hoster freier aber auch komerzieller Software. Und ja! Ich kann verstehen, das so manch einer/e für seine/ihrne "vielleicht" kostenlose Arbeit auch ein wenig entlohnt werden möchte. Aber das entscheidet alleine der Konsument (und darum geht es doch eigentlich - die großen Anbieter und Ihre Werbung), schon gar kein Werbeslogen oder Sinnfreie <a href="http://www.horizont.net/medien/nachrichten/-Ad-Blocker-Debatte-Der-Erfolg-der-Anti-Kampagne--Mafioese-Werbenetzwerke-115494">Anti-Adblock-Kampagne</a>!
 
-**Ich muss mir also dringen die Frage stellen, was ist eigentlich seriös und wen kaufe ich das auch noch ab?(!)**
+**Ich muss mir also dringend die Frage stellen, was ist eigentlich seriös und wen kaufe ich das auch noch ab?(!)**
 
-Ein kleines Beispiel zur Seriösität: Meine Oma wird oft auf Seiten belogen und betrogen. Dass weil sie einen Adblocker nutzt, Sie sich *"angeblich"* strafbar mache oder noch dreistere Anbieter Ihr, mit bauchtänzelnden blinkenden Nachrichten erklären wollen, dass ja Ihr Adblocker in Wahrheit ein Virus sei - getreu dem Motto: *"Schnell, Schnell, wie die Winde! So das der Blocker, aus dem Browser verschwinde..."* - *pffh* lächerlich! Davon halte ich ja mal garnichts.
+Ein kleines Beispiel zur Seriösität? Also meine Oma wird oft auf Seiten belogen und betrogen. Und nein sie ist nicht auf der Bild dir deine... unterwegs. Das weil sie einen Adblocker nutzt, Sie sich *"angeblich"* strafbar mache oder noch <a href="http://www.heise.de/newsticker/bilderstrecke/bilderstrecke_2125588.html">* dreistere Anbieter (siehe auch  Beispiel-Screenshot von heise.de)</a> Ihr gerne mal mit bauchtänzelnd blinkenden Nachrichten erklären wollen, dass ja Ihr Adblocker in Wahrheit ein Virus sei. Immer alles getreu dem Motto:
 
-**Das ist nun für die hälfte der Anbieter von ätzender blinke-billi Werbung, also Seriösität?**
+*"Schnell, Schnell, wie die Winde! So das der Blocker, aus dem Browser verschwinde..."*
 
-Das ist ein Armutszeugnis, weiter nichts! Adblocks schützen meine Privatsphäre und da hat jeder Nutzer ein Recht darauf. Daran ist nichts strafbar - *das ist Eigenschutz!* Bevor man jedoch die Wahl hat, muss erst einmal verstanden haben, das man ein Recht darauf hat. Wer es nicht kennt nutzt es nicht und da kommt das Plugin wieder ins Spiel...
+*pffh* echt lächerlich - davon halte ich ja mal so garnichts! *Ist das für die Anbieter von ätzender blinke-billi Werbung also seriös?*
+
+Das ist ein Armutszeugnis für mich und weiter nichts! Adblocks schützen meine Privatsphäre und da hat jeder Nutzer ein Recht darauf. Daran ist nichts strafbar - *das ist Eigenschutz!* Bevor man jedoch die Wahl hat, muss erst einmal verstanden haben, das man ein Recht darauf hat/hätte. Wer es nicht kennt - nutzt es nicht und / oder kann auch nicht selber entscheiden - ein Blocker einzusetzen oder nicht.
+
 
 #### Du bist also gegen die Werbung?
 
-Nein! Ich bin nicht gegen Werbung. Denn Werbung ist etwas gutes und etwas ganz natürliches und das sollte es auch bleiben. Es ist ein natüliches Interesse eines jeden, seine Gruppe, Familie und Freunde zu schützen, der Gruppe weiterhin beigehören zu wollen, sie zu stärken oder die gleiche Gefühlswelt anzunehmen. Werbung ist Sozial und Gruppenbedingt. Heute haben wir jedoch Produkte die unser Weltbild aber auch das soziale Miteinander bestimmen und so wird Werbung gerne zu einer Fars von "ich muss haben".
+Nein! Ich bin nicht gegen Werbung. Denn Werbung ist etwas gutes und etwas ganz natürliches, so lange sie Einhalt, seriös ist. Werbung ist so alt wie die Menschheit selbst. Es ist ein natüliches Interesse eines jeden, seiner Gruppe/n denen man angehört, Familie und Freunde... Werbung ist ein Maß des Selbsterhaltungstriebes. Werbung entsteht da, wo andere ein Interesse haben. Lehnt man es ab, so glaube die meisten auch, eine Person in der Gruppe abzulehen. Schon ist man aus der Gruppe draußen, oder die Meinungen gehen um, gegen diese zu arbeiten.
 
-Ich muss jedoch nix haben! Ich sollte nur die Wahl haben mich entscheiden zu dürfen oder mehr darüber zu erfahren. Wenn da nicht auch der Neid währe den alle Werbung zu einem Manifest von Stichelein und Geldgier macht. Wenn eine Blogerszene zusammen arbeitet dann macht es Sinn, einfach Werbung zu machen. Doch geht es um die Netzwerk-Werbung die keinem gefällt.
+Doch ist das so? Natürlich alles Quatsch! Nur weil ich ein anderes Interesse habe, heist es nicht, die Person damit zu schmälern. Zuhören ist angesagt! Lernen sich auch für andere zu freuen. Man kann andere Interessen haben und damit eine Gruppe sehr viel weiter bringen. Und ja, die Gefühlswelt ist eine schwirige Sachen.
 
-**Kaum kontroliert packt jeder sein Blinkebild da rein oder nein, gar 20, 30 müssen es sein. Und Ja, dazu sage auch ich NEIN!**
+Medienforscher und Psychologen wissen das. Was man aus dem Wissen macht, entscheidet jedoch, wie eine Gesellschaft miteinander konterigiert. Werbung ist von Grund auf eigentlich ein sozial Geflecht. Heute haben wir jedoch Produkte die unser Weltbild, aber auch das soziale Miteinander mehr und mehr durch die Strategien der Anbieter bestimmen und so wird Werbung gerne zu einer Fars von "ich muss haben" und "ich bin besser".
 
-Und dann diese unfassbar schlechten Bloger die sich darüber aufregen, dass sie zu wenig Einnahmen über die Add Werbung haben (nicht das ich gut schreiben könne, wie man folglich hier lesen kann). Aber wenn Sie alle so toll und wichtig währen, so würden Sie ihr Potential anderweitig vermarkten können. Noch interessanter finde ich Seiten, die kostenlos von Anbietern gehostet werden. Einige die nicht einmal Werbung einblenden, sondern es die Bloger selber sind, die es einbauen. Nix bezahlen wollen, aber rumheulen wenn die Knete nicht stimmt?
+Ich muss jedoch nix haben! Ich sollte nur die Wahl haben, mich entscheiden zu dürfen oder mehr darüber zu erfahren. Wenn da nicht auch noch der Neid währe der aller Strategie in und um die Werbung, ein zunehmendes Maß zu einem Manifest von Stichelein und Geldgier macht. Wenn eine Blogerszene zusammen arbeitet dann macht es Sinn, einfach Werbung zu machen. Doch geht es um die Netzwerk-Werbung die keinem gefällt!
+
+**Kaum kontroliert packt jeder sein Blinkebild da rein oder nein, gar 20, 30 müssen es sein? Und Ja, dazu sage auch ich entschlossen - NEIN!**
+
+Und dann diese unfassbar schlechten Bloger die sich darüber aufregen, dass sie zu wenig Einnahmen über die Add Werbung haben (nicht das ich gut schreiben könne, wie man folglich hier lesen kann). Aber wenn Sie alle so toll und wichtig währen, so würden Sie ihr Potential anderweitig vermarkten können.
+
+Noch interessanter finde ich Seiten, die kostenlos von Anbietern gehostet werden. Einige die nicht einmal Werbung einblenden, sondern es die Bloger selber sind, die es einbauen. Nix bezahlen wollen, aber rumheulen wenn die Knete nicht stimmt?
+
+**Zeit für eine These**
+
+Was Blocker/inen mit antreibt bei einer Anti-Adblock-Bewegung dabei sein zu müssen, ist nichts weiter als Neid auf die Kollegen und Anbieter. Was die Anbieter treibt, ist nichts weiter als Gier, Unverständnis und Angst nicht mehr der Platzhirsch zu sein. Aufsehen erwecken um jeden Preis.
+
+Und was währe wenn wir morgen alle Adblocker abschalten würden? Wenn Bloger, YouTuber, Podcaster gar alle, Ihre eigene Werbung machen würden und stadt der Netz- und Google Ads, Ihre eigenen Blinkebanner bauen. Die nur wieder Werbung für andere Kollegen machen machen würden und nicht für kommerzielle Produkte.
+
+*Was dann?*
+
+Dann hätten wir auf jedem Falle wieder gejammere, nur auf der anderen Seite, da keiner die Werbung nutzt. Die schönen zahlen gehen herunter wie auch beim Nutzen der Adblocks.
+
+*Und dann?*
+
+Na dann kommt sicher wieder ein Schnössel um die Ecke, der meint: "das ginge ja garnicht" und verklagt irgend ein armen Bloger - ach Quatsch, was schreibe ich da - Sie verklagen alle auf: "Werbung ist nur Werbung wenn es von den Anbietern kommt", "Werbung (TM), zu, Werbung braucht ein Copyright - für das Wort selbst!" und / oder "es dürfe auch nur genau dies als Werbung definiert und von den Blogern und Seitenbetreibern genutzt und eingebaut werden!".
+
+Ein anderes Bild sehen wir gerade mit den Gerichtsprozessen der "Ablock muss verboten werden!" und den Mafia- ähnelnden Übernahmen, der Content Industrie, bei der Verhökerung der Adblock-Plugins.
+
+Also das gleiche "Bild" wie wir es jetzt gerade haben...
 
 
 #### Wie kann man sonst sein Geld verdienen?
 
-Wer sagt das man das im Internet muss? Sie kamen alle ins Netz und bevölkerten es. Am Anfang wars schön!
-Dann musst die Konzerne es für sich einnehmen und rasch bekam man Mails die man nicht wollte, nicht brauchte und wir nannten es Spam! Danach Werbenetze was das Zeug hält und jede Menge mist den kein Mensch braucht.
+Wer sagt das man das im Internet eigentlich muss? - Sie kamen alle ins Netz und bevölkerten es. Am Anfang wars schön! Dann mussten die Konzerne es aber für sich einnehmen und rasch bekam man Mails die man nicht wollte, nicht brauchte und wir nannten es Spam! Danach Werbenetze was das Zeug hält und jede Menge von dem Mist den kein Mensch braucht.
 
-Wenn Du dein Geld im Internet verdienen willst musst Du auch arbeiten dafür, das nimmt dir kein Netzwerk ab. Eine kleine Spende für dich als Schreiber, Programmierer, Podcaster oder was auch immer, finde ich absolut OK! Ich spende selber für Projekte die mir gefallen, die ich untersützendwürdig halte. Warum sollte es nicht auch andere tun?
+Wenn Du dein Geld im Internet verdienen willst musst Du auch arbeiten dafür, das nimmt dir kein Netzwerk ab. Eine kleine Spende für dich als Schreiber, Programmierer, Podcaster oder was auch immer, finde ich absolut ok und legitiem. Ich selber spende mehrere hundert Euro für gute Projekte die mir gefallen, die ich untersützungswürdig halte. Warum sollte das andere nicht auch tun?
 
-Auch ist es legitim zu sagen "Ich habe hier Arbeit investiert", die Frage ist nur, was Du am Ende dafür bekommen willst? Wenn es mehr als nur ein paar Cent sind (durch Spendenbutton, Flattr & Co), so sage es und zeige deinen Lesern oder Hörern auf, wie Sie dein Produkt erwerben können. Das ist legitim und (da kommen wir wieder hin) das ist seriös. Wer soziale Projekte baut oder sonst wie was, wird immer auf Spenden angewiesen sein. Daran ändert auch ein Werbung nichts.
+Auch ist es doch absolut legitim zu sagen: "Ich habe hier Arbeit investiert", die Frage ist nur, was Du am Ende dafür bekommen willst?
 
-#### Was müssen wir dann tun?
+Wenn es mehr als nur ein paar Cent sein sollen (durch etwa Spendenbutton, Flattr & Co), so sage es und zeige deinen Lesern oder Hörern auf, wie Sie dein Produkt erwerben können. Das ist legitim und (da kommen wir wieder hin) das ist seriös. Wer soziale Projekte baut oder sonst wie was, wird immer auf Spenden angewiesen sein. Daran ändert auch eine Werbung nichts. Spendenbutton gibt es wie Sand am Meer, doch die heulen meist wenig herum.
 
-Zu glauben, das nur weil wir die hälfte automatisieren und durch Services ersetzen, dies auch gleich bedeutend mit - nicht mehr arbeiten zu müssen - asoziirt wird, - der irrt! Ein Aberglaube den viele seit Jahren aufsitzen dank der Add-Werbung und Netzwerken die sich in Netz tummeln und meist noch von Großkonzernen gesponsert werden, die nun wirklich nicht wenig verdienen.
 
-**Damit werden Milliarden verdient, jedoch meist an der falschen Seite.**
+#### Was müssen wir denn tun?
 
-Wer also einen Adblock verwert, zwinkt andere und übt Druck in unterschiedlichsten Maße aus, der kann mur ohne Rücksicht handeln, vielleicht lügt und betrügt er, zumindest engt er andere ein.
+Zu glauben, das nur, weil wir die hälfte automatisieren und durch Services ersetzen, dies auch gleich bedeutend mit - nicht mehr arbeiten zu müssen, assoziiert wird, - der irrt! Ein Aberglaube den viele seit Jahren aufsitzen, dank der Add-Werbung und Networks die sich in Internet tummeln und meist noch von Großkonzernen mit begesponsert werden, die nun wirklich nicht wenig verdienen.
 
-Eben so gut, kann ich mir ein Werbeschild schnappen, beim Fleischer um die Ecke, um Ihn dazu zu drängen es in sein Schaufenster zu packen. Wenn ich ihn also bedränge (und er sich nicht zu helfen weis), dann ist das eine Nötigung (sicher juristisch nich korekt!) - für mich ein straffälliges Verhalten. Wer seriös und an seine Arbeit glaubt, braucht das nicht.
+**Damit werden Milliarden verdient, jedoch meist an der falschen Seite!**
 
-**Das kostet Geld? Dann sag was es kostet!**
+Doch da heult nun wirklich keiner rum. Wer also einen Adblock verwert, zwinkt auf der anderen Seite seine Kunden  und übt Druck in unterschiedlichsten Maße aus. Wer das unterstützt weis auch, das dies ohne Rücksicht auf seine potentiellen Kunden geschieht und zuläst, das diese auspioniert und an den Pranger gestellt werden.
 
-Die Wahrheit ist, nicht alle werden sofort dafür bezahlen. Aber genau so funktioniert es, alles andere sind nichts weiter als Mafia-Methoden und Betrug am eigenen Kunden.
+Eben so gut kann ich mir ein Werbeschild schnappen, beim Fleischer um die Ecke, um Ihn dazu zu drängen es in sein Schaufenster zu packen. Wenn ich ihn also bedränge (und er sich nicht zu helfen weis, auch nichts dafür bekommt), dann ist das eine Nötigung (sicher juristisch nich ganz korekt!) - für mich einfach ein straffälliges Verhalten. Wer seriös und an seine Arbeit glaubt, braucht das nicht.
 
-So lange die Wirtschaft weiterhin ohne Verlust auf die Konsumenten handelt, so lange ist Gegenwehr immer erlaubt und gar geboten.
+**These zwei**
+
+Wenn ich meinen Adbocker mal selber tracken würde und die Energie, der abziehe, dessen Leistung mein Rechner  aufwenden muss um die Werbeeinblender anzuzeigen zu lassen und ich dann einen Brief an die Seitenbetreiber schreibe, bekommen ich dann das Geld für meine Stromrechnung von ihnen zurück? Wenn wir das nun alle machen würden, blieben in binnen kürzester Zeit, von den Werbeeinnahmen, sicher nicht mehr all viel übrig!
+
+Datentraffic auf dem Handy: Es gibt keine direkte Flatt, das hat sich so eingebürgert. Durch Werbung auf dem Handy verbrate ich das Volumen schneller als ein Telekommitarbeiter "Drosselkom" sagen kann. Zahlt Ihr uns die Volumenrechnungen auch? Toll :)
+
+**Wie wäre es, wenn einfach die Telekom einen Kostenbeitrag für alle Seitenbetreiber einfordern kann, die Werbung auf Ihren Seiten im Übermaß schalten. Immerhin belasstet die Werbung die Netze und erzeugt tausende an Requests und übermäßigen Traffic in Ihnren Leitungen!**
+
+Ich schlage gleich mal ein Geschäftsidee vor: Man bezahlt einfach für Größe, Datenvolumen + Traffic bei einer aufgerufenen Zahl der Seite. Am Ende des Monats wird sich dann schon zeigen ob das so doll ist. Zur Zeit bezahle ich jedoch noch dafür das der Seitenbetreiber Werbung einblendet. Der Witz: der bekommt dafür jedoch nicht einmal die 1/16 an Geldleistung zurück. Hier verdienen ganz andere!  
+
+**Dein Content kostet Geld? Dann sag was es kostet!**
+
+Die Wahrheit ist, nicht alle werden sofort dafür bezahlen. Aber genau so funktioniert es in einer realen Wirtschaft. Alles andere ist seit je, über 20 Jahren im Internet (einen einfachen Shop ausgeschlossen) nichts weiter als Mafia-Methoden und Betrug am eigenen Kunden.
+
+So lange die Wirtschaft weiterhin ohne Verlust auf die Konsumenten handelt, trackt und drausschlägt, so lange ist Gegenwehr immer erlaubt und gar aus meiner Sicht geboten.
 
 
 #### Uns sonst so?
 
-Ich nehmen an dieser Stelle den Hacken der Beweiskraft an mich und betone außerordentlich, diesen Text selber in schlechtem Monoton, Audruck und Rechtschreibung geschrieben zu haben. Daran beschönige ich auch nichts!
+Ich nehmen an dieser Stelle den Haken der Beweiskraft an mich und betone außerordentlich, diesen Text selber in schlechtem Monoton, Audruck und Rechtschreibung geschrieben zu haben. Daran beschönige ich auch nichts!
 
 *Es gibt sicher noch eine Menge zu sagen... oder? Nö? Doch!*
 
-Ein Danke für die vielen Stunden geht an die Kollegen von <a href="http://www.sempervideo.de/">Sempervideo</a>, den man an der einen oder anderem... ähh <a href="https://flattr.com/donation/give/to/sempervideo">genau diesen Stelle hier</a> mit ein wenig Kleingeld bewerfen darf (wer das kann und will).
+Ein Danke für die vielen Stunden geht an die Kollegen von <a href="http://www.sempervideo.de/">Sempervideo</a> (<a href="https://www.youtube.com/user/SemperVideo">YouTube Channel</a>), den man an der einen oder anderem... ähh <a href="https://flattr.com/donation/give/to/sempervideo">genau dieser Stelle hier</a> mit ein wenig Kleingeld bewerfen darf (wer das kann und will).
 
 Ich bin gespannt wie die Debatte um den Adblock so weiter geht.
 
-An dieser Stelle noch eine *"das solltest Du wissen"* Info.
+An dieser Stelle noch eine *"das solltest Du wissen"* Info: **Dieses Plugin habe ich mal recht schnell zusammengehackt** - Erwarte keine Wunder! Ich nehme jedoch Ideen auf und habe selber noch einige. Diese kannst Du mir <a href="https://github.com/McCouman/Adblock-Message-for-Wordpress/issues">hier</a> hinterlassen. Wer meine spontanen Entwicklungen im Eifer der Lage unterstützen mag, findet <a href="https://flattr.com/profile/mccouman">hier</a> Abhilfe.
 
-**Dieses Plugin habe ich mal recht schnell zusammengehackt** - Erwarte keine Wunder! Ich nehme jedoch Ideen auf und habe selber noch einige. Diese kannst Du mir <a href="https://github.com/McCouman/Adblock-Message-for-Wordpress/issues">hier</a> hinterlassen. Wer meine spontanen Entwicklungen unterstützen mag, findet <a href="https://flattr.com/profile/mccouman">hier</a> Abhilfe.
-
-So, das wars auch jetzt. Viel Spaß!
+So, Danke das wars auch jetzt. Viel Spaß!
 
 M.C.
 
 
 
-# Funktionsweise
+# Funktionsweise des Plugins
 
 ### standard = message (ohne Angaben)
 Zeigt eine vordefinierte Box mit Verlinkung und Hinweisen, wenn der Besucher keinen Adblocker nutzt.
