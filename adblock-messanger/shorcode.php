@@ -431,7 +431,7 @@ class adblockmessage_widget
 		<!--css-->
 		<p>
 			<label for="<?php echo $this->get_field_id( 'css' ); ?>">
-				<?php _e( 'Button Link:' ); ?>
+				<?php _e( 'CSS:' ); ?>
 			</label>
 			<textarea id="<?php echo $this->get_field_id( 'css' ); ?>"
 			          name="<?php echo $this->get_field_name( 'css' ); ?>"
