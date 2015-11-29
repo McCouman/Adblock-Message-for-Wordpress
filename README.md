@@ -1,5 +1,5 @@
-# Adblock-Message-for-Wordpress
-Adblock-Message ist ein Shortcode Plugin für Wordpress. Es zeigt eine Nachricht an, wenn ein Besucher <u>keinen</u> Adblock installiert hat.
+# Adblock-Message-for-Wordpress (Version 1.2.4)
+Adblock-Message ist ein Shortcode und Widget Plugin für Wordpress. Es zeigt eine Nachricht an, wenn ein Besucher <u>keinen</u> Adblock installiert hat.
 
 ## Fragen & Antworten
 #### Was ist Adblock-Message?
@@ -221,3 +221,12 @@ Beispiel Code:
 
 Vorschau:
 <img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/css.png">
+
+## Widgets
+
+Kannst nun auch eine Infobox, Bild oder Weiterleitung ganz einfach über die Widgets einbinden.
+
+<img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/widgets.png">
+<img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/widget-nachrichtenbox.png">
+<img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/widget-images.png">
+<img src="https://raw.githubusercontent.com/McCouman/Adblock-Message-for-Wordpress/master/doc/img/widget-redirect.png">
